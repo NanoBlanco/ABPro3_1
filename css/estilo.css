@@ -1,0 +1,17 @@
+#figuras {
+    list-style: none;
+  }
+  
+  .arriba {
+    transform: scale(1.2);
+  }
+
+  .abajo {
+    transform: scale(0.8);
+  }
+  .borde{
+    border: 1px solid red;
+  }
+  li{
+    list-style: none;
+  }
